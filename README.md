@@ -13,8 +13,6 @@ Linux için:
 code .``
 
 
-![kodluyoruz](https://user-images.githubusercontent.com/9364520/136373555-c3a19f7c-1820-4374-80d5-3bf40238766c.jpg)
-
 ## Contributing
 
 ....
